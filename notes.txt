@@ -1,0 +1,3 @@
+UX Designer = profissional que visa a satisfação do usuário com um produto ou serviço, melhorando a usabilidade, a acessibilidade e até mesmo a satisfação proporcionada na interação.
+
+UI Designer = profissional que promove a criação e o desenvolvimento da interface explorada pelo usuário em um produto ou serviço. Esta interface será utilizada de modelo para o desenvolvedor Front End.
